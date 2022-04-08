@@ -1,0 +1,41 @@
+
+
+.react-datepicker-popper[data-placement^=bottom] 
+{
+	padding-top: 15px;
+
+	.react-datepicker__triangle
+	{
+		left:-210px !important;
+	}
+	
+}
+
+.date-field
+{
+	display: block;
+    width: 100%;
+    font-size: 12px;
+    padding: 7px 12px !important;
+    border: 1px solid #9d9d9d !important;
+}
+
+.react-time-picker
+{
+	margin: 0px;
+	display: block !important;
+
+	.react-time-picker__wrapper
+	{
+		padding: 2px 12px !important;
+	}
+	
+}
+
+.has-error
+{
+	.react-time-picker__wrapper
+	{
+		border-color:#ff7e7e !important;
+	}
+}
