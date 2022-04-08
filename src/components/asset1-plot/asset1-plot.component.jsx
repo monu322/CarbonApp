@@ -69,20 +69,6 @@ function Asset1Plot() {
     };
 
     useEffect(()=>{
-
-        
-        var options = {
-            responsive: true,
-            plugins: {
-                legend: {
-                position: 'top',
-                },
-                title: {
-                display: true,
-                text: 'Asset 1 Plot',
-                },
-            },
-        };
         
         var labels = asset1Data.map((item)=>item.time);
     

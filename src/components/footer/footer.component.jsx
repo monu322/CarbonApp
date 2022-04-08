@@ -5,7 +5,7 @@ function Footer() {
     return (
         <div className="content-footer">
 
-            &copy; {new Date().getFullYear()} Copyright <a target="_blank" href="https://arenko.group/"> Arenco.group</a>
+            &copy; {new Date().getFullYear()} Copyright <a rel="noreferrer" target="_blank" href="https://arenko.group/"> Arenko.group</a>
             
         </div>
     )
