@@ -40,7 +40,7 @@ function CarbonIntensity() {
             },
             title: {
             display: true,
-            text: 'Carbon Intensity Plot from ',
+            text: 'Carbon Intensity Plot from 18 Sept 12:00 - 1st Oct 12:00',
             },
         },
     };
