@@ -52,6 +52,15 @@ span.error-msg
 	&:focus, &:active
 	{
 		box-shadow: none !important;
+		background-color: #3a4148 !important;
+	}
+}
+
+.btn.btn-dark
+{
+	&:hover
+	{
+		background-color: #3a4148 !important;
 	}
 }
 
