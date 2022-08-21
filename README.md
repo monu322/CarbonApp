@@ -1,4 +1,4 @@
-# ARENKO FRONT-END CODING CHALLENGE
+# Asset management UI in React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -8,7 +8,7 @@ The project has two routes, 1. Home page and 2. Carbon Intensity page. Placehold
 
 ### 1. Home Page
 
-  Home page is a combination of two components wrapped in <Fragment>. 1. Asset1 and 2. Asset1 plot 
+Home page is a combination of two components wrapped in <Fragment>. 1. Asset1 and 2. Asset1 plot 
 
 
 #### Asset1 
@@ -27,7 +27,4 @@ The project has two routes, 1. Home page and 2. Carbon Intensity page. Placehold
 This components utilises the public API from National Grid’s Carbon Intensity API available at https://carbon-intensity.github.io/api-definitions/
 
   It uses ChartJs to plot the data fetched from the API. A line chart is used for the visualisation of forecasted and actual values of Carbon Intensity. Two distinctly colored and overlying line plots give the viewer a clear idea about the fluctuation and correlation between the two values over a period of time. 
-
-  
-
 
